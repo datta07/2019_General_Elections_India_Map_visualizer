@@ -4,4 +4,4 @@
   ## largest party:
   ![](Screenshots/largest.PNG)
   ## secound largest party:
-  ![] (Screenshots/secound_largest.PNG)
+  ![](Screenshots/secound_largest.PNG)
