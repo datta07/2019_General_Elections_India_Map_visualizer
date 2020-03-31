@@ -74,4 +74,5 @@ for i in patches:
 		ax.add_collection(PatchCollection(patches[i], facecolor= color_data[i], edgecolor=color_data[i], linewidths=.1, zorder=2))
 	except Exception:
 		ax.add_collection(PatchCollection(patches[i], facecolor= '#ffffff', edgecolor='k', linewidths=0.1, zorder=2))
+plt.title('2019 Secound Largest Party')
 plt.show()
